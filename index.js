@@ -6,4 +6,4 @@ const random = Math.ceil(Math.random() * 10);
 
 const mod = 24 % 5 
 
-const max = 
+const max = Math.max(1,4,5,20)
