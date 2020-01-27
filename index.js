@@ -4,4 +4,4 @@ const multiply = var1 * var2
 
 const random = Math.ceil(Math.random() * 10);
 
-const mod = 22 / 5 
+const mod = 20 / 5 
